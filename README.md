@@ -13,9 +13,9 @@ This Python script estimates the melting temperature of aluminum by calculating 
 Install dependencies:
 pip install numpy matplotlib scipy
 
-git clone https://github.com/MayankKumarSingh1/ThermoModelling.git
-cd ThermoModelling
+git clone https://github.com/MayankKumarSingh1/ThermoModelling
 
+cd ThermoModelling
 python gfe.py
 
 ## Estimated melting temperature of Aluminum (Al): 933.45 K
